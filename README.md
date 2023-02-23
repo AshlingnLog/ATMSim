@@ -28,7 +28,7 @@ Send Money to Friend's Email.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a href="https://github.com/AshlingnLog/ATMSim/blob/main/AshlingButterflyLogo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -173,8 +173,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+Distributed under the MIT License. See `LICENSE.txt` for more information.[
+](https://github.com/AshlingnLog/ATMSim/blob/main/LICENSE)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
