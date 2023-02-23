@@ -5,9 +5,7 @@ Notes for ReadME
 Make Additions to ATM project.
 Send Money to Friend's Email.
 
-Features selection to send money (along with options to deposit or withdrawl funds).
-If 'send money' if selected, there will be a data entry point with an option for input email address/phone number.
-Contingency, you can't send more money than you have. Must leave $1 remaining in account balance
+
 
 
 <!-- PROJECT SHIELDS -->
@@ -30,7 +28,7 @@ Contingency, you can't send more money than you have. Must leave $1 remaining in
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AshlingnLog/ATMSim">
+  <a href="">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,7 +41,8 @@ Contingency, you can't send more money than you have. Must leave $1 remaining in
     <br />
     <br />
     <a href="https://ashlingnlog.github.io/ATMSim/">View Demo</a>
-    Conact me for Features or Bugs AshlingStruve85@gmail.com
+    Conact me for Features or Bugs
+    Ashling Struve - AshlingStruve85@gmail.com - www.Ashling.us
   </p>
 </div>
 
@@ -140,7 +139,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1 Send to Friends - Send money to friends
+- [ ] Feature 1 Send to Friends - Send money to friends: Features selection to send money (along with options to deposit or withdrawl funds).
+If 'send money' if selected, there will be a data entry point with an option for input email address/phone number.
+Contingency, you can't send more money than you have. Must leave $1 remaining in account balance
 - [ ] Feature 2 Add Security levels - Password
 - [ ] Feature 3 
     - [ ] Nested Feature
